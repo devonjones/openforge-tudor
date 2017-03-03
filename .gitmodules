@@ -1,0 +1,15 @@
+[submodule "external"]
+	path = external
+	url = ./external/
+[submodule "internal"]
+	path = internal
+	url = ./internal/
+[submodule "accessories"]
+	path = accessories
+	url = ./accessories/
+[submodule "base"]
+	path = base
+	url = ./base/
+[submodule "parts"]
+	path = parts
+	url = ./parts/
